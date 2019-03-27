@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="HisPB">
+        <item name="colorAccent">@color/colorHis</item>
+    </style>
+
+    <style name="colorTech">
+        <item name="colorAccent">@color/colorTech</item>
+    </style>
+
+    <style name="colorBio">
+        <item name="colorAccent">@color/colorBio</item>
+    </style>
+    <style name="colorGeo">
+        <item name="colorAccent">@color/colorGeo</item>
+    </style>
+    <style name="colorSoc">
+        <item name="colorAccent">@android:color/holo_green_light</item>
+    </style>
+    <style name="colorAstro">
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="BlueTheme" parent="AppTheme" >
+        <item name="android:statusBarColor">@color/design_default_color_primary_dark</item>
+        <item name="android:textColorPrimaryInverse">@android:color/holo_blue_bright</item>
+    </style>
+</resources>

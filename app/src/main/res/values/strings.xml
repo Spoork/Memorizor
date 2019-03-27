@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Memorizor</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_text">sample text</string>
+    <string name="next_button">Next</string>
+    <string name="NextSessionDate">Next Session Date</string>
+
+    <string name="question_ww2">America got involved in WW2 because they were attacked by Vietnam</string>
+    <string name="question_ww1">WW1 began in 1914</string>
+    <string name="question_france">Britain and France fought the Seven Years War from 1754 to 1763</string>
+
+    <string name="question_africa">The source of the Nile River is in
+Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest
+river in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and
+deepest freshwater lake.</string>
+
+    <string name="question_IT1">Computers require programs, which are lists of specific instructions, in order to carry out their work. </string>
+    <string name="question_IT2">The computers being produced today are very reliable.</string>
+    <string name="question_IT3">Social media actually goes back to some of the earliest Internet technologies and even predates the Internet.</string>
+
+
+    <string name="question_Bio1">Oxygen is required for glycolysis to occur.</string>
+    <string name="question_Bio2">Only plants preform photosynthesis while only animals aerobically respire.</string>
+    <string name="question_Bio3">Thermodynamics is the study of energy relationships.</string>
+
+    <string name="question_soc1">Sociology is the systematic scientific study of human society.</string>
+    <string name="question_soc2">Hate crime is new on the crime scene, it is a crime perpetuated against a group.</string>
+    <string name="question_soc3">Societys elite determine the rules regarding what is deviant in a society.</string>
+
+    <string name="question_astro1">The Suns diameter is about 5 times that of Earth.</string>
+    <string name="question_astro2">We could survive on Mars without spacesuits, as long as we brought oxygen in scuba tanks.</string>
+    <string name="question_astro3">the earth spins counter clockwise on its axis as viewed from above the north pole.</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="show_answer_button">Show Answer</string>
+</resources>
